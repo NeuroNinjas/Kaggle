@@ -1,1 +1,1 @@
-This is a repo for gathering Kaggle projects
+# This is a repo for gathering Kaggle projects.
