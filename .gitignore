@@ -6,5 +6,5 @@
 *.ipynb_checkpoints
 *.DS_Store
 
-# data inputs
-input_data
+# input/output files
+*.csv
