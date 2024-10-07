@@ -1,3 +1,7 @@
 # pytorch models
 *.pt 
-*.pth 
+*.pth
+
+# jupyter
+.ipynb_checkpoints
+.DS_Store
