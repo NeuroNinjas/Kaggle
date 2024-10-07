@@ -3,5 +3,8 @@
 *.pth
 
 # jupyter
-.ipynb_checkpoints
-.DS_Store
+*.ipynb_checkpoints
+*.DS_Store
+
+# data inputs
+input_data
